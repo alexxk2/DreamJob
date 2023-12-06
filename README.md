@@ -137,8 +137,9 @@
 
 ## Запись работы основных экранов
 
-
-https://github.com/alexxk2/DreamJob/assets/96295239/8361bd6f-2f7e-4e49-b0d7-9499a516dc91
+![dream_job_1](https://github.com/alexxk2/DreamJob/assets/96295239/53188ad5-2fa2-4d17-8179-844a21cb4f2d) <br/> <br/> 
+![dream_job_3](https://github.com/alexxk2/DreamJob/assets/96295239/bcb7de6f-e478-405a-8303-3d636dc91a69) <br/> <br/> 
+![dream_job_2](https://github.com/alexxk2/DreamJob/assets/96295239/62b17d0c-6be1-4266-bc2a-ac2ed8cb0a36) <br/> <br/> 
 
 
 
